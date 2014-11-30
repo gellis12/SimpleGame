@@ -405,6 +405,7 @@
 				ADFD71451A2A1AD70061E0ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ADFD71461A2A1AD70061E0ED /* Build configuration list for PBXNativeTarget "SimpleGameTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +414,7 @@
 				ADFD71481A2A1AD70061E0ED /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
